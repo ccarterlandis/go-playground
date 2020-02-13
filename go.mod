@@ -1,3 +1,3 @@
-module github.com/ccarterlandis/CS4080
+module github.com/ccarterlandis/go-playground
 
 go 1.13
