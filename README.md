@@ -13,3 +13,8 @@
 ## Thursday 2/13
 ----------------
 - Reconfigured my local installation of Go to its default. When I set everything up on 1/27, I was unclear on both the purposes and usages of modules and packages. After re-reading the documentation today, I altered my setup to use what I found to be the simpler configuration: module-aware mode. Module aware mode will automatically look for a `go.mod` file in the current directory and every parent directory, and enables a `go` workspace to live anywhere on the filesystem.
+- Completed Go Tour thru [pointers](https://tour.golang.org/moretypes/1)
+
+## Thursday 2/13
+----------------
+- Completed Go Tour thru [function closures](https://tour.golang.org/moretypes/26)
