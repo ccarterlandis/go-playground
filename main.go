@@ -9,7 +9,8 @@ func main() {
 	// PictureMain()
 	// Maps()
 	// FV()
-	Fibonacci()
+	// Fibonacci()
+	Methods()
 }
 
 
