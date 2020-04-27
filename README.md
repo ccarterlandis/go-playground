@@ -15,4 +15,10 @@
 
 ## Friday 2/14
 - Completed Go Tour thru [function closures](https://tour.golang.org/moretypes/26)
-- Listened to Tame Impala's new album, The Slow Rush, on repeat the entire day.
+- Listened to Tame Impala's new album, _The Slow Rush_, on repeat the entire day.
+
+## Monday 4/27
+- Finally remembered to commit some more of my work, added all the content from the Go tour to this repo for posterity.
+- I will be honest: with the COVID-19 crisis I kinda forgot about this for a while. Making efforts in the next few weeks to pick back up.
+- Will add project draft in the near future
+- Listened to Kainalu's _Lotus Gate_.
