@@ -21,5 +21,7 @@
 - Finally remembered to commit some more of my work, added all the content from the Go tour to this repo for posterity.
 - Completed Go tour thru [Stringers](https://tour.golang.org/methods/18).
 - I will be honest: with the COVID-19 crisis I kinda forgot about this for a while. Making efforts in the next few weeks to pick back up.
-- Will add project draft in the near future
 - Listened to Kainalu's _Lotus Gate_.
+
+## Wed 5/6
+- I forgot to make this commit the other day when I did it. I also completed the Reader and rot13Reader exercises; for these I just did it on the tour website and not in a local file.
